@@ -1,0 +1,4 @@
+{
+  "zh-CN": "GLM Coding Plan 插件。GLM 专属 thinking 关闭、上下文裁剪和输出上限收口都在插件内完成，不再回退到内置 provider driver。",
+  "en-US": "GLM Coding Plan plugin with plugin-side thinking disablement, context trimming, and output caps."
+}
