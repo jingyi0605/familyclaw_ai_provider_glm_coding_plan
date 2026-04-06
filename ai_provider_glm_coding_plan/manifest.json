@@ -1,7 +1,7 @@
 {
   "id": "ai-provider-glm-coding-plan",
   "name": "GLM Coding Plan",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "types": ["ai-provider"],
   "permissions": [],
   "risk_level": "low",
@@ -178,7 +178,7 @@
     }
   },
   "compatibility": {
-    "min_app_version": "0.1.0",
+    "min_app_version": "0.1.2",
     "provider_profile_schema_version": 1,
     "transport_type": "openai_compatible",
     "api_family": "openai_chat_completions",
